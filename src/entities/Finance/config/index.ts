@@ -1,0 +1,1 @@
+export { statisticsData } from './statisticsData';
